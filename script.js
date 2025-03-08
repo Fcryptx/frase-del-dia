@@ -1,4 +1,4 @@
-const phrase = document.getElementById("content");
+const phrase = document.getElementById("phrase");
 
 const author = document.getElementById("author");
 
