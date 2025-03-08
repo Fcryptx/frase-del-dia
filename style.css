@@ -24,6 +24,7 @@ body{
 
 #header h1{
 	font-size: 4.5vw;
+	color: #fff;
 }
 
 /* NAV */
@@ -62,10 +63,11 @@ body{
 }
 
 #phrase{
-		
+	color: #fff;		
 }
 
 #author{
+	color: #fff;
 	font-size: 3.1vw;
 	align-self: end;
 }
